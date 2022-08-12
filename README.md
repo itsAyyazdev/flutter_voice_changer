@@ -11,7 +11,7 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-![Voice changer](relative/path/to/img.jpg?raw=true "Title")
+![Voice changer](https://github.com/itsAyyazdev/flutter_voice_changer/blob/main/screenshots/Screenshot_2022-08-12.jpg?raw=true)
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
