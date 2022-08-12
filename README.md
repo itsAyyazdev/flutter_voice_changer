@@ -13,6 +13,7 @@ A few resources to get you started if this is your first Flutter project:
 
 ![Voice changer](https://github.com/itsAyyazdev/flutter_voice_changer/blob/main/screenshots/Screenshot_2022-08-12.jpg?raw=true)
 
+<img src="https://github.com/itsAyyazdev/flutter_voice_changer/blob/main/screenshots/Screenshot_2022-08-12.jpg" width="200" />
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
